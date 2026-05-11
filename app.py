@@ -8,12 +8,11 @@ st.set_page_config(
 )
 
 st.title("🚀 OSS 실습 3 - EC2 Streamlit 배포")
-st.subheader("AWS Learner Lab EC2에서 실행 중인 Streamlit 앱입니다.")
+st.subheader("간단한 메모 앱")
 
 st.write(
     """
     2025404041 강성진
-    이 앱은 오픈소스소프트웨어실습 실습 3 과제를 위해 제작되었습니다.  
     """
 )
 
